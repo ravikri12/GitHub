@@ -16,7 +16,6 @@
 		266AA3D228D86757006E07AD /* GitHubTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266AA3D128D86757006E07AD /* GitHubTests.swift */; };
 		266AA3DC28D86757006E07AD /* GitHubUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266AA3DB28D86757006E07AD /* GitHubUITests.swift */; };
 		266AA3DE28D86757006E07AD /* GitHubUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266AA3DD28D86757006E07AD /* GitHubUITestsLaunchTests.swift */; };
-		266AA3EB28D96E61006E07AD /* testfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266AA3EA28D96E61006E07AD /* testfile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +49,6 @@
 		266AA3D728D86757006E07AD /* GitHubUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitHubUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		266AA3DB28D86757006E07AD /* GitHubUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitHubUITests.swift; sourceTree = "<group>"; };
 		266AA3DD28D86757006E07AD /* GitHubUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitHubUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		266AA3EA28D96E61006E07AD /* testfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testfile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,7 +106,6 @@
 				266AA3C328D86757006E07AD /* Assets.xcassets */,
 				266AA3C528D86757006E07AD /* LaunchScreen.storyboard */,
 				266AA3C828D86757006E07AD /* Info.plist */,
-				266AA3EA28D96E61006E07AD /* testfile.swift */,
 			);
 			path = GitHub;
 			sourceTree = "<group>";
@@ -262,7 +259,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				266AA3BF28D86755006E07AD /* ViewController.swift in Sources */,
-				266AA3EB28D96E61006E07AD /* testfile.swift in Sources */,
 				266AA3BB28D86755006E07AD /* AppDelegate.swift in Sources */,
 				266AA3BD28D86755006E07AD /* SceneDelegate.swift in Sources */,
 			);
